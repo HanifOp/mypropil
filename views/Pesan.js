@@ -1,5 +1,5 @@
 try {
-	alert('Website Arasya');
+	alert('Website Hanif');
 	alert('🗿');
 	alert('Hahahaa');
 	alert('Pencet aja trus🗿');
